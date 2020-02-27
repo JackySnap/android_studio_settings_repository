@@ -1,0 +1,14 @@
+<templateSet group="Kotlin">
+  <template name="toast" value="Toast.makeText(context,$TEXT$, Toast.LENGTH_LONG).show()" description="Make a toast message" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="entity" value="@Entity(tableName = &quot;$NAME$&quot;)&#10;" description="table name of a data class" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

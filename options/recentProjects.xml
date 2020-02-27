@@ -1,0 +1,440 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/AndroidStudioProjects/SimpleBluetoothLeTerminal-master" />
+        <option value="$USER_HOME$/AndroidStudioProjects/SnapElog2" />
+        <option value="$USER_HOME$/AndroidStudioProjects/flutter_vms_sc" />
+        <option value="$USER_HOME$/AndroidStudioProjects/VMSFirmwareKit" />
+        <option value="$USER_HOME$/AndroidStudioProjects/RetrofitRxJavaApi" />
+        <option value="$USER_HOME$/AndroidStudioProjects/LiveDataWithFlowSample" />
+        <option value="$USER_HOME$/AndroidStudioProjects/Demo_RetrofitPicassoRecyclerViewGson" />
+        <option value="$USER_HOME$/AndroidStudioProjects/App_Crab_log_v5" />
+        <option value="$USER_HOME$/AndroidStudioProjects/Demo_RxJavaRetrofitRoom" />
+        <option value="$USER_HOME$/AndroidStudioProjects/SnapitElog" />
+        <option value="$USER_HOME$/AndroidStudioProjects/ELogbook" />
+        <option value="$USER_HOME$/AndroidStudioProjects/JsonParser" />
+        <option value="$USER_HOME$/AndroidStudioProjects/Telegram" />
+        <option value="$USER_HOME$/AndroidStudioProjects/android-room-with-a-view-kotlin" />
+        <option value="$USER_HOME$/AndroidStudioProjects/Kotlin Koans" />
+        <option value="$USER_HOME$/AndroidStudioProjects/VMSGprSwitch" />
+        <option value="$USER_HOME$/AndroidStudioProjects/android-mvvm-rx-master" />
+        <option value="$USER_HOME$/AndroidStudioProjects/room-persistence-sample" />
+        <option value="$USER_HOME$/AndroidStudioProjects/Beta_SnowCrab" />
+        <option value="$USER_HOME$/AndroidStudioProjects/SolarVMS" />
+        <option value="$USER_HOME$/AndroidStudioProjects/MyWeatherApp" />
+        <option value="$USER_HOME$/AndroidStudioProjects/CooroutineKotlin" />
+        <option value="$USER_HOME$/AndroidStudioProjects/MVVPKotlin" />
+        <option value="$USER_HOME$/AndroidStudioProjects/sampleMVP" />
+        <option value="$USER_HOME$/AndroidStudioProjects/ThemeSwitcher" />
+        <option value="$USER_HOME$/AndroidStudioProjects/BluetoothLeGatt1" />
+        <option value="$USER_HOME$/AndroidStudioProjects/bleexample2" />
+        <option value="$USER_HOME$/AndroidStudioProjects/bleexample" />
+        <option value="$USER_HOME$/AndroidStudioProjects/BluetoothLeGatt" />
+        <option value="$USER_HOME$/AndroidStudioProjects/Demo_NavigationDrawer" />
+        <option value="$USER_HOME$/AndroidStudioProjects/VMSTestPlay" />
+        <option value="$USER_HOME$/AndroidStudioProjects/Download_Files_Save_Demo" />
+        <option value="$USER_HOME$/AndroidStudioProjects/Demo_Print_whileloop" />
+        <option value="$USER_HOME$/AndroidStudioProjects/HelloWorld" />
+        <option value="$USER_HOME$/AndroidStudioProjects/sjdlkfsadljfklsdjflkjslkjfld" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/AndroidStudioProjects/SimpleBluetoothLeTerminal-master" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/AndroidStudioProjects/SimpleBluetoothLeTerminal-master" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/App_Crab_log_v5">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1581381989551" />
+              <option name="buildTimestamp" value="1572476365301" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Beta_SnowCrab">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571716409447" />
+              <option name="buildTimestamp" value="1556742913357" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/BluetoothLeGatt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562906208543" />
+              <option name="buildTimestamp" value="1556742955821" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/BluetoothLeGatt1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563149332657" />
+              <option name="buildTimestamp" value="1556742955821" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/CooroutineKotlin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567552672308" />
+              <option name="buildTimestamp" value="1556742901836" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Demo_NavigationDrawer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561946136047" />
+              <option name="buildTimestamp" value="1556742916775" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Demo_Print_whileloop">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561332088698" />
+              <option name="buildTimestamp" value="1556742909178" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Demo_RetrofitPicassoRecyclerViewGson">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1581382047704" />
+              <option name="buildTimestamp" value="1572476365301" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Demo_RxJavaRetrofitRoom">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1581381886950" />
+              <option name="buildTimestamp" value="1572476365301" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Download_Files_Save_Demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561411520531" />
+              <option name="buildTimestamp" value="1556742909178" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/ELogbook">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1581046492748" />
+              <option name="buildTimestamp" value="1572476388652" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/HelloWorld">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560998216021" />
+              <option name="buildTimestamp" value="1556742955321" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/JsonParser">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1580870946400" />
+              <option name="buildTimestamp" value="1572476342999" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Kotlin Koans">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576698066002" />
+              <option name="buildTimestamp" value="1572476393717" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/LiveDataWithFlowSample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1581881829797" />
+              <option name="buildTimestamp" value="1572476398055" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MVVPKotlin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567139624398" />
+              <option name="buildTimestamp" value="1556742901836" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyWeatherApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1570415777386" />
+              <option name="buildTimestamp" value="1556742913357" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/RetrofitRxJavaApi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1582083646618" />
+              <option name="buildTimestamp" value="1572476372037" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/SimpleBluetoothLeTerminal-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1582758721349" />
+              <option name="buildTimestamp" value="1572476393931" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/SnapElog2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1582757742363" />
+              <option name="buildTimestamp" value="1572476352568" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/SnapitElog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1581305466736" />
+              <option name="buildTimestamp" value="1572476365301" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/SolarVMS">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1570479003993" />
+              <option name="buildTimestamp" value="1556742913357" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Telegram">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1579058763009" />
+              <option name="buildTimestamp" value="1572476372416" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/ThemeSwitcher">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564717952389" />
+              <option name="buildTimestamp" value="1556742944284" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/VMSFirmwareKit">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1582572649793" />
+              <option name="buildTimestamp" value="1572476373087" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/VMSGprSwitch">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575594550658" />
+              <option name="buildTimestamp" value="1572476367398" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/VMSTestPlay">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561602839134" />
+              <option name="buildTimestamp" value="1556742929767" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/android-mvvm-rx-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1574306124646" />
+              <option name="buildTimestamp" value="1572476364990" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/android-room-with-a-view-kotlin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576809779461" />
+              <option name="buildTimestamp" value="1572476358677" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/bleexample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562906294826" />
+              <option name="buildTimestamp" value="1556742955821" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/bleexample2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562906420310" />
+              <option name="buildTimestamp" value="1556742955821" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/flutter_vms_sc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5977832" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1582747766372" />
+              <option name="buildTimestamp" value="1572476352568" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/room-persistence-sample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1574048952427" />
+              <option name="buildTimestamp" value="1556742939159" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/sampleMVP">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567034007423" />
+              <option name="buildTimestamp" value="1556742923675" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/sjdlkfsadljfklsdjflkjslkjfld">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-183.6156.11.34.5522156" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560998175385" />
+              <option name="buildTimestamp" value="1556742955321" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

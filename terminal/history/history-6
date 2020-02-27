@@ -1,0 +1,1000 @@
+cat eagle-
+cat eagle-lin-7.2.0.run 
+ls
+./eagle-lin-7.2.0.run
+sudo ./eagle-lin-7.2.0.run
+sudo su
+sudo bash ./eagle-lin-7.2.0.run
+ls
+rn
+ls
+sudo bash eagle-lin32-7.4.0.run 
+sudo apt-get install samba
+sudo apt-get install smbclient
+ls /dev
+screen /dev/ttyUSB0
+sudo apt-get install screen
+screen /dev/ttyUSB0
+screen /dev/ttyUSB0 9600
+screen /dev/ttyUSB0 115200
+screen /dev/ttyUSB0
+shutdown now
+firefox
+stty -help
+stty --help
+stty < /dev/ttyUSB0 
+SUDO stty < /dev/ttyUSB0 
+sudo stty < /dev/ttyUSB0 
+stty < sudo /dev/ttyUSB0 
+sudo stty < sudo /dev/ttyUSB0 
+sudo stty < /dev/ttyUSB0 
+cat /dev/ttyUSB0 
+sudo cat /dev/ttyUSB0 
+clear
+echo "I am very very happy!" > /dev/ttyUSB0 
+sudo echo "I am very very happy!" > /dev/ttyUSB0 
+ls
+ls -l
+su
+su jacky
+su
+su
+cd /dev
+ls -l
+clear
+sudo echo "I am happy" 
+echo "I am happy" 
+sudo passwd root
+su
+ls
+echo "I am very very very happy!" > /dev/ttyUSB0 
+su
+clear
+stty echo
+stty echo
+sudo echo "jajajajajaja" > /dev/ttyUSB0 
+su
+stty -F /dev/ttyUSB0 sane; stty -F /dev/ttyUSB0 speed 115200
+su
+ls
+su
+sudo su
+nemo smb://10.10.1.38/Share
+nemo smb://10.10.1.38/Users/Public
+nemo smb://10.10.1.38/
+nemo smb://10.10.1.38/Users/Public
+nemo smb://10.10.1.38/ChrisN
+nemo smb://CHRISN-PC/Users/ChrisN/Desktop/test/one
+nemo smb://guest@CHRISN-PC/Users/ChrisN/Desktop/test/one
+nemo smb://guest@CHRISN-PC/Users/Public/
+nemo smb://chrisn@CHRISN-PC/Users/Public/
+fstab
+cd /etc/
+cat fstab
+nane fstab
+nano fstab
+sudo nano fstab
+nemo smb://guest@CHRISN-PC/Users/Public/
+xkill
+stty echo
+stty -a
+lsusb
+sudo gtkterm
+ls -l /dev/ttyUSB0 
+chmod o+rw /dev/ttyUSB0 
+sudo chmod o+rw /dev/ttyUSB0 
+ls -l /dev/ttyUSB0 
+echo -ne '\033[2j' > /dev/ttyUSB0 
+echo "sjsjsjsjsjsj"  > /dev/ttyUSB0 
+su
+ls dev/ttyU*
+ls /dev/ttyU*
+sudo screen /dev/ttyUSB0 115200
+screen -r
+screen
+screen -ls
+cat /dev/ttyUSB0 
+sudo cat /dev/ttyUSB0 
+sudo echo "jajajajajaja" > /dev/ttyUSB0 
+su
+sudo su
+nemo smb://guest@CHRISN-PC/Users/Public/
+nemo smb://chrisn@CHRISN-PC/Users/Public/
+sudo su
+sudo
+sudo su
+id
+shutdown now
+sdcc
+picp
+cd android-studio/
+ls
+cd bin
+ls
+./studio.sh
+ls -l
+sudo chown -R jacky /home/jacky/AndroidStudioProjects/
+cd /home/jacky/AndroidStudioProjects/
+cd ..
+ls -l
+ls -al /dev/kvm
+grep kvm /etc/group
+sudo apt-get install qemu-kvm
+sudo apt-get update
+sudo apt-get install qemu-kvm
+grep kvm /etc/group
+sudo adduser jacky kvm
+grep kvm /etc/group
+shutdown r
+shutdown -r
+shutdown -r now
+sudo apt-get install update
+sudo apt-get update
+sudo apt-get upgrade
+java -version
+shut now
+shutdown now
+./studio.sh 
+minitor
+monitor
+cd android-studio/
+ls
+cd bin
+ls
+./studio.sh 
+cd AndroidStudioProjects/
+ls
+cd /.metadata
+cd .metadata
+shutdown now
+sqlitebrowser
+sudo apt install sqlitebrowser
+sqlitebrowser
+cd android-studio/
+ls
+cd bin/
+cs
+ls
+./studio.sh 
+sudo apt install apache2
+sudo apt install mysql-server
+sudo apt install php-pear php-fpm p
+sudo apt install php-pear php-fpm php-dev php-zip php-curl php-xmlrpc php-gd php-mysql php-mbstring php-xml libapache2-mod-php
+sudo service apache2 restart
+php -r 'echo "\n\nYour PHP installation is working fine.\n\n\n";'
+shudown now
+shutdown now
+cd /etc
+ls
+cd apache2/
+ls
+cd
+cd /var
+ls
+cd www/
+ls
+cd html/
+ls
+cd
+cd /etc/apache2/conf-enabled/
+ls
+cd
+cd /etc/
+ls
+cd phpm
+cd phpmyadmin/
+ls
+php -m | grep mysql
+sudo apt-get update
+sudo apt-get install phpmyadmin
+sudo apt-get --purge remove phpmyadmin 
+sudo apt-get install phpmyadmin
+php -m | grep mcrypt
+sudo php5enmod mcrypt
+php -m | grep mcrypt
+php5enmod
+cd ..
+cd apache2/
+ls
+cd conf-enabled/
+ls
+sudo apt-get --purge remove phpmyadmin 
+sudo apt-get install phpmyadmin
+ls
+sudo apt-get install mysql-server mysql-client
+ls
+sudo nano security.conf 
+cd ..
+cd mods-enabled/
+sudo nano dir.conf 
+cd ..
+cd sites-enabled/
+sudo nano 000-default.conf 
+sudo sudo systemctl restart apache2
+sudo systemctl restart apache2
+sudo apt-get install php php-cgi libapache2-mod-php php-common php-pear php-mbstring
+sudo a2enconf php7.1-cgi
+sudo a2enconf php7.2-cgi 
+sudo systemctl reload apache2
+sudo apt-get install phpmyadmin php-gettext
+cd ..
+cd conf-available/
+ls
+sudo apt-get --purge remove phpmyadmin 
+sudo apt-get install phpmyadmin
+sudo mysql -p -u root
+sudo dpkg-reconfigure phpmyadmin
+sudo restart apache2
+sudo service apache2 restart
+mysql -u root -p mysql
+sudo mysql -u root
+service mysql restart
+sudo apt-get --purge remove phpmyadmin 
+sudo apt-get install phpmyadmin
+mysql -u root -p
+cd ..
+ls
+cd ..
+ls
+cd phpmyadmin/
+ls
+sudo nano config.inc.php 
+sudo dpkg-reconfigure phpmyadmin
+sudo php5enmod mcrypt 
+sudo php5enmod 
+php5enmod 
+sudo phpenmod mcrypt 
+ext install PHP Debug
+alsamixer
+git clone git://github.com/xdebug/xdebug.git
+ls
+cd xdebug/
+ls
+phpize
+./configure 
+make
+make install
+sudo make install
+sudo apt-get install phpmyadmin
+service apache2 restart
+phpmyadmin
+sudo apt-get install phpmyadmin
+service apache2 restart
+cd /etc/phpmyadmin/
+ls
+sudo nano config.inc.php 
+service apache2 restart
+cd ..
+ls
+cd
+cd /var/www/
+ls
+cd html/
+ls
+sudo mkdir SqliteSync
+ls
+cd SqliteSync/
+sudo nano saveName.php
+sudo apt install snapd snapd-xdg-open
+snap install postman
+postman
+d
+cd
+sudo nano .bashrc
+source ~/.bashrc
+postman
+cd AndroidStudioProjects/
+ls
+cd ..
+ls
+cd android-studio/
+ls
+cd bin
+ls
+./studio.sh 
+ifconfig
+ifconfig -i
+ifconfig -l
+ifconfig -I
+hostname -I
+hostname
+ifconfig
+cd 
+cd /etc
+ls
+cd
+cd /var/www/html/SqliteSync/
+ls
+sudo nano saveName.php
+sudo nano saveName2.php
+sudo nano saveName2.php
+./studio.sh 
+cd
+cd /var/www/html/SqliteSync/
+ls
+sudo nano saveName2.php
+sudo cp saveName2.php saveName3.php
+sudo nano naveName3.php
+ls
+sudo nano saveName3.php
+shutdown now
+sudo apt-get update
+sudo apt-get upgrade
+cd android-studio/
+ls
+cd bin/
+ls
+./ studio.sh
+/. studio.sh
+./ studio.sh
+./studio.sh 
+sudo apt-get install zeal
+sudo add-apt-repository ppa:nathan-renniewaldock/flux
+sudo apt-get update
+sudo apt-get install fluxgui
+fluxgui 
+shutdown -r now
+cd android-studio/
+ls
+cd bin/
+ls
+./studio.sh 
+cd
+cd Android/Sdk/tools/
+android list sdk -a
+android list sdk -a.
+./UwTerminalX 
+ls -l /dev/tty*
+sudo usermod -a jacky -G dialout
+./UwTerminalX 
+cd android-studio/
+cd bin/
+./studio.sh 
+cd android-studio/bin/
+ls
+./studio.sh 
+gcc --version
+make
+find nbproject
+find
+find nbproject
+cd /var/www/html/
+ls
+cd SqliteSync/
+ls
+sudo nano saveName3.php 
+xset r rate 180 80
+apt-get update && apt-get upgrade
+sudo apt-get update && apt-get upgrade
+sudo apt-get install default-jdk
+./laird_tobias_tutorial/UwTerminalX 
+cat /etc/group
+ls -l /dev/ttyUSB0 
+sudo ./laird_tobias_tutorial/UwTerminalX 
+cd /var/www/html/SqliteSync/
+ls
+sudo nano saveName3.php
+cd /var/www/html/SqliteSync/
+ls
+sudo nano saveName2.php
+sql
+sqlite
+sudo apt install sqlite
+sqlite
+clear
+cd
+cd 
+cd /var/www/html/SqliteSync/
+ls
+sudo nano saveName2
+sudo nano saveName2.php
+sudo mv /usr/share/phpmyadmin/ /usr/share/phpmyadmin.bak
+sudo mkdir /usr/share/phpmyadmin/
+cd /usr/share/phpmyadmin/
+sudo tar xzf phpMyAdmin-4.8.5-all-languages.tar.gz
+sudo wget https://files.phpmyadmin.net/phpMyAdmin/4.8.5/phpMyAdmin-4.8.5-all-languages.tar.gz
+sudo tar xzf phpMyAdmin-4.8.5-all-languages.tar.gz
+ls
+sudo mv phpMyAdmin-4.8.5-all-languages/* /usr/share/phpmyadmin
+sudo nano /usr/share/phpmyadmin/libraries/vendor_config.php
+sudo rm /usr/share/phpmyadmin/phpMyAdmin-4.8.5-all-languages.tar.gz
+sudo rm -rf /usr/share/phpmyadmin/phpMyAdmin-4.8.5-all-languages
+sudo rm -rf /usr/share/phpmyadmin.bak
+GAME
+game
+ifconfig
+cd ..
+ls
+cd SqliteSync/
+ls
+sudo nano saveName2.php
+snap install spotify
+spotify
+ls
+sudo su
+sudo mv Scans.php /var/www/html/SqliteSync/
+ls /dev/ttyUSB0 
+ls /dev/tty 
+screen /dev/ttyUSB0 speed
+rm -f saveName.php 
+sudo rm -f saveName.php 
+sudo cat Scans.php
+sudo cat > Scans.php
+ls -l /dev/ttyU
+ls -l /dev/ttyUSB0 
+go get
+sudo snap install go
+sudo apt install golang=go
+sudo apt install golang-go
+go get
+go build
+./hello
+cd hello/
+go build
+ls
+./hello
+cd android-studio/bin/
+ls
+./studio.sh 
+cd
+sudo nano ./bashrc
+./bashrc
+go env
+which go
+export GOROOT=/usr/bin/go
+env
+go env
+export GOROOT=/usr/lib/go-1.10
+go env
+go get
+go get
+sh buildarm.sh 
+go get
+git
+go get
+clear
+cd
+git config --global user.name 
+cd go
+ls
+cd src/github.com/SnapITHD/hello/
+ls
+go get
+ls
+cd ..
+ls
+cd idem/
+go get
+cd ..
+ls
+git clone https://github.com/SnapITHD/forester.git
+ls
+cd idem/
+go get
+cd ..
+ls
+git clone
+git clone https://github.com/SnapITHD/gpserial.git
+cd idem/
+go get
+ls
+cd ..
+ls
+cd idem/
+go get
+sh buildarm.sh
+git https://github.com/SnapITHD/idem.git
+git clone https://github.com/SnapITHD/idem.git
+cd idem/
+go get
+ls
+sh buildarm.sh 
+./buildarm.sh 
+sudo ./buildarm.sh 
+./buildarm.sh 
+sudo ./buildarm.sh 
+sh buildarm.sh 
+c
+cd
+export GOPATH=$HOME/go
+source ~/.bash_profile
+source ~/.bash
+source ~/.bashrc
+ssh root@10.10.1.167
+sudo add-apt-repository ppa:canonical-chromium-builds/stage
+sudo apt update
+sudo apt install chromium-browser
+cd Downloads/
+ls
+cd /tmp/mozilla_jacky0/
+ls
+sudo su
+cd android-studio/bin/
+ls
+./studio.sh 
+clear
+cd
+dpkg --list | grep complier
+dpkg --list 
+dpkg --list | grep compiler
+sudo apt-get install g++
+sudo apt install build-essential
+g++ --version
+sudo apt-get install c++
+implementation 'android.arch.persistence.room:runtime:1.0.0'
+annotationProcessor 'android.arch.persistence.room:compiler:1.0.0'
+clear
+git clone https://github.com/kernc/logkeys.git
+./autogen.sh 
+cd build/
+../configure 
+make
+ls
+../build/
+../configure 
+cat config.log 
+sudo apt-get install c++
+sudo apt-get install g++
+sudo apt-get update
+sudo apt-get install g++
+sudo apt-get install c++
+cd logkeys/
+ls
+cd build/
+ls
+../configure 
+make
+sudo make install
+sudo locale-gen
+sudo logkeys -s
+sudo logkeys -k
+nano /var/log/logkeys.log 
+sudo nano /var/log/logkeys.log 
+logkeys -help
+logkeys -u
+sudo logkeys -u
+sudo logkeys -s
+sudo logkeys -k
+sudo nano /var/log/logkeys.log 
+touch test.log
+ls
+rm test.log 
+ls
+locale
+logkeys -s -m 
+sudo logkeys -s -m my_lang.keymap
+touch my_lang.keymap
+sudo logkeys -s -m my_lang.keymap
+cd
+sudo nano /var/log/logkeys.log 
+cd logkeys/build/
+ls
+sudo make uninstall
+ls
+cd ..
+cd
+./gradlew :app:clean :app:compileDebugJavaWithJavac
+xkill
+cd android-studio/
+ls
+cd bin/
+ls
+sudo ./studio.sh 
+sudo apt-get upgrade
+chmod 777 /jre/bin/java
+locate jre/bin/java
+chmod 777 /home/jacky/android-studio/jre/bin/java
+chmod --help
+chmod 777 /home/jacky/android-studio/jre/bin/
+sudo chmod 777 /home/jacky/android-studio/jre/bin/
+mysql
+mysql root
+mysql -u root
+mysql -u root -p mysql
+mysql -status
+sudo nano phpmyadmin.conf 
+dpkg-reconfigure phpmyadmin
+sudo dpkg-reconfigure phpmyadmin
+sudo mysql -u root
+firefox
+sudo mysql -u root mysql
+sudo mysql -u root
+sudo mysql -u root 
+xkill
+sudo apt-get update
+sudo apt-get upgrade
+sudo add-apt-repository ppa:nathan-renniewaldock/flux
+sudo apt-get update
+sudo apt-get install fluxgui
+shutdown now
+sudo apt-get install cifs-utils 
+cd Desktop/
+mkdir Windows-share 
+sudo mount.cifs //ChrisN PC/test shared folder /home/jacky/Desktop/Windows-share/ -o user=Everyone
+sudo mount.cifs //ChrisN\ PC/test\ shared\ folder /home/jacky/Desktop/Windows-share/ -o user=Everyone
+sudo mount.cifs //CHRISN-PC/test\ shared\ folder /home/jacky/Desktop/Windows-share/ -o user=Everyone
+sudo rm Windows-share 
+sudo rm -f Windows-share 
+sudo rm -r Windows-share 
+rmdir Windows-share 
+sudo rmdir Windows-share 
+ssh-keygen
+ls /home/jacky/.ssh/
+cat /home/jacky/.ssh/id_rsa
+python3
+sshfs root@192.241.222.172:/var/www/php/content /home/jacky/android_backend/
+ssh 192.241.222.172
+sshfs root@192.241.222.172:/var/www/php/content ~/tmp/srv-mnt
+sshfs root@192.241.222.172:/var/www/php/content /home/jacky/android_backend/
+.3
+sshfs root@192.241.222.172:/var/www/php/content /home/jacky/android_backend/
+mysql
+su -u
+su
+su log
+su -log
+ssh elog
+ssh 192.241.222.172
+sudo apt-get isntall abd
+xkill
+xkill
+ssh vmsapp.snapit.group
+adb kill-server
+adb
+sudo apt install adb
+adb devices | grep emulator | cut -f1 | while read line; do adb -s $line emu kill; done
+adb -s emulator-5554 emu kill
+sudo adb -s emulator-5554 emu kill
+adb -s emulator-5554 emu kill
+adb devices | grep emulator | cut -f1 | while read line; do adb -s $line emu kill; done
+adb devices | grep emulator | cut -f1 | while read line; do adb -s $line emu kill; ;
+adb devices | grep emulator | cut -f1 | while read line; do adb -s $line emu kill; done
+ssh vmsapp.snapit.group
+scp SolarVMS\ BLE\ Messaging\ Protocol.pdf vms@update.snapithd.com:vmsfirmware/
+cat .ssh/id_rsa.pub 
+ssh vms@update.snapithd.com
+cd /usr/local/bin/
+sudo
+sudo nano uploadfirmware
+sudo chmod uog+x uploadfirmware 
+ls
+cd
+cd Downloads/
+ls
+uploadfirmware SolarVMS\ BLE\ Messaging\ Protocol.pdf 
+uploadfirmware "SolarVMS\ BLE\ Messaging\ Protocol.pdf "
+uploadfirmware 'SolarVMS\ BLE\ Messaging\ Protocol.pdf '
+ls
+uploadfirmware current.hex 
+clear
+cd
+export PATH="$PATH:`pwd`/flutter/bin"
+ls
+flutter precache
+flutter doctor
+echo $PATH
+flutter doctor
+clear
+flutter doctor
+flutter doctor --android-licenses
+y
+flutter doctor
+scp current.hex vms@update.snapithd.com:vmsfirmware/
+ssh vms@update.snapithd.com 
+scp current.hex vms@update.snapithd.com:vmsfirmware/
+ssh vms@update.snapithd.com
+scp test.hex vms@update.snapithd.com:vmsfirmware/
+./studio.sh 
+uname -m
+sudo apt install gdebi
+wget https://github.com/sidneys/desktop-dimmer/releases/download/v2.9.0/desktop-dimmer-2.9.0-amd64.deb
+sudo gdebi desktop-dimmer-2.9.0-amd64.deb
+adb
+adb devices
+adb reconnect
+sudo adb reconnect
+adb kill-server
+sudo cp ~/Android/Sdk/platform-tools/adb /usr/bin/adb
+sudo chmod +x /usr/bin/adb
+adb start-server
+adb devices
+scp current.hex vms@update.snapithd.com:vmsfirmware/
+scp test.hex  vms@update.snapithd.com:vmsfirmware/
+tar xf UwTerminalX_<version>.tar.gz -C ~/
+./UwTerminalX
+cd UwTerminalX/
+ls
+./UwTerminalX
+cat README.md 
+./UwTerminalX
+./UwTerminalX/
+cd UwTerminalX/
+ls
+./UwTerminalX.pro
+sudo ./UwTerminalX.pro
+./main.cpp
+sudo ./UwTerminalX.pro
+sudo main.cpp
+sudo ./main.cpp
+sudo /.main.cpp
+git https://github.com/LairdCP/UwTerminalX.git
+git -help
+git -C https://github.com/LairdCP/UwTerminalX.git
+git get
+git clone https://github.com/LairdCP/UwTerminalX.git
+ls
+tar xf UwTerminalX.tar.gz -C ~/
+qmake UwTerminalX.pro 
+qmake
+qmake -version
+qmake -help
+ls
+clear
+which qmake-qt3
+which qmake-qt4
+sudo apt-get install qt4-qmake
+sudo apt-get install libqt4-dev
+which qmake-qt4
+qmake UwTerminalX.pro 
+lsusb
+qmake UwTerminalX.pro 
+sudo apt-get install libqt5serialport5-dev
+qmake UwTerminalX.pro 
+cd
+clear
+wget http://download.qt.io/official_releases/qt/5.7/5.7.0/qt-opensource-linux-x64-5.7.0.run
+sudo apt-get install build-essential
+sudo apt-get install libfontconfig1
+cd Downloads/
+ls
+chmod +x qt-unified-linux-x64-3.1.1-online.run 
+./qt-unified-linux-x64-3.1.1-online.run 
+ls
+clear
+ls
+cd
+clear
+lsusb
+tty
+xkill
+./UwTerminalX 
+adb restart
+adb
+adb -help
+adb -h
+adb restart
+adb help
+adb kill-server
+shutdown -r now
+scp current.hex vms@update.snapithd.com:vmsfirmware/
+cd AndroidStudioProjects/
+ls
+cd SnapitElog/
+git init
+git status 
+git add
+git add app/
+git status 
+git commit -m "Initial commit, created work flow of this app."
+git status 
+git show
+cd
+cd AndroidStudioProjects/
+cd VMSFirmwareKit/
+git status
+git init
+git add app/
+git commit -m "autoconnection error found. Connection does not pick up again after disconnected. Current solution is unpair VMS from Bluetooth system settings and create a new bond with this VMS."
+git checkout -b autoConnect
+git branch 
+cd AndroidStudioProjects/
+cd VMSFirmwareKit/
+git branch 
+git merge
+git merge -help
+git commit -m "autoconnection bug fixed. Add intend action: BluetoothDevice.ACTION_ACL_DISCONNECTED into onPairingBoardcastReceive. gatt.connect() called when device disconnected from SolarVMS. Added a welcome screen to remind user to turn off Bluetooth on iPad"
+ssh vms@update.snapithd.com 
+ssh vms@update.snapithd.com
+journalctl -fu updateserver.service |grep vms
+journalctl -u updateserver.service |grep vms
+journalctl -fu updateserver.service |grep vms
+cd Downloads/
+scp current.hex  vms@update.snapithd.com:vmsfirmware/
+ls
+sl
+scp current.hex  vms@update.snapithd.com:vmsfirmware/
+java -version
+xkill
+clear
+xkill
+adsfasfsd
+refesh
+refresh
+xkill
+scp test.hex vms@update.snapithd.com:vmsfirmware/
+./firmware-format-spec
+./vms-hex-transmogrifier 
+mkdir misc
+ls
+cd misc/
+ls
+mkdir fake_aihub
+cd fake_aihub/
+ls
+vim run.sh
+sudo apt-get install vim
+ls
+vim run.sh
+chmod +x run.sh 
+./run.sh 
+ls
+vim myfile.json
+./run.sh 
+xkill
+sudo deja-dup 
+deja-dup 
+echo 'Hello Jacky'
+echo 'Hello Jacky' | sha1sum
+ls
+sha1sum Firefox_wallpaper.png 
+ls -lh Firefox_wallpaper.png 
+cd AndroidStudioProjects/
+ls
+cd SnapitElog/
+git log
+git log --graph --oneline 
+git log --graph --merges 
+git version
+sudo apt-get update
+sudo apt-get upgrade
+sudo add-apt-repository ppa:atareao/atareao
+sudo apt-get install na
+sudo add-apt-repository ppa:atareao/atareao
+clear
+chmod +x scrapbookqmsg;./scrapbookqmsg init
+sudo apt-get install webhttrack
+webhttrack 
+./install.sh 
+scp current.hex vms@update.snapithd.com:vmsfirmware/
+xkill
+curl http://geeky.co.nz/cellular_gpr.php?300234005226 --data '{"payloadBase64": "ABCDE12345","timeSent": "2017-11-15T17:34:43+1300"}'
+curl http://geeky.co.nz/cellular_gpr.php?300234005226 --data '{"payloadBase64": "ABCDE12345"}'
+curl http://geeky.co.nz/cellular_gpr.php?300234005226 --data '{"payloadBase64": "ABCDE12345","timeSent": "2017-11-15T17:34:43+1300"}'
+curl http://geeky.co.nz/cellular_gpr.php?300234005226
+curl http://geeky.co.nz/cellular_gpr.php?
+curl http://geeky.co.nz/cellular_gpr.php?300234005226 --data '{"payloadBase64": "asdfds"}'
+curl http://geeky.co.nz/cellular_gpr.php/ --data '{"payloadBase64": "asdfds"}'
+curl http://geeky.co.nz/cellular_gpr.php?300234005226 --data '{"payloadBase64": "ABCDE12345","timeSent": "2017-11-15T17:34:43+1300"}'
+curl -v -X POST -H "Authorization: zb33h9h2ga33z239" -H "Content-Type: application/json" -d '{"timeSent": "2018-11-16T14:43:49.211759+13:00", "payloadBase64": "MzMzMDMwMzIzMzM0MzAzNjM1MzIzODM1MzMzOTMwZmYwMDAwMDAwMmY2MDNkOTAwMDJmZjAwMDAwMDAyZjYwM2NkMDAwMmZmMDAwMDAwMDJmODAzZDYwMDAyMzc="}' https://vms.snapithd.com/gpr/send/300234066722980
+grep dods *
+nano app.js
+scp current.hex vms@update.snapithd.com:vmsfirmware/
+sudo apt-get install ibus-pinyin
+ibus restart
+ibus
+file 
+file 范蠡《范子计然》原文及译文.txt
+iconv -t UTF-8 范蠡《范子计然》原文及译文.txt
+iconv -t ISO-8859-15 范蠡《范子计然》原文及译文.txt -t UTF-8 -o fanli.txt
+iconv -f ISO-8859-15 范蠡《范子计然》原文及译文.txt -t UTF-8 -o fanli.txt
+cat fanli.txt 
+php parse.php [1]
+php parse.php tripactivitytype.json [1]
+php parse_json.php tripactivitytype.json [1]
+php parse_json.php tripactivitytype.json [2]
+php parse_json.php gearcode.json 0 1
+php parse_json.php tripactivitytype.json 1
+clear
+php parse_json.php tripactivitytype.json 1
+clear
+php parse_json.php tripactivitytype.json 0 1
+php parse_json.php tripactivitytype.json 1
+clear
+php parse_json.php tripactivitytype.json 0 1
+clear
+php parse_json.php triptype.json 0 1
+php parse_json.php port.json 0 1
+php parse_json.php triptype.json 
+php parse_json.php triptype.json 0 1
+scp current.hex vms@update.snapithd.com:vmsfirmware/
+touch globals.xml.ftl
+mkdir root
+nano template.xml 
+clear
+nano recipe.xml.ftl 
+s
+ls
+cat template.xml 
+clear
+cd root/
+mkdir src/app_package
+mkdir src
+cd src/
+ls
+mkdir app_package
+cd app_package/
+ls
+mkdir repository
+cd repository/
+mkdir Db
+cd D
+cd Db/
+mkdir Dao
+cd Da
+cd Dao/
+touch Dao.kt.ftl
+nano Dao.kt.ftl 
+cd ..
+cd ,,
+cd ..
+ls
+nano template.xml 
+cd root/src/app_package/repository/Db/Dao/
+nano Dao.kt.ftl 
+clear
+git add-commit -m "add Room database, successfully populate GearItem RecyclerView with MVVM architecture. To ensure it works, remove the exsisting app before run the app "
+git push
+git add-commit -m "reproduce all repos, made file template for it"
+git add-commit -m "No object encapsulate object into another. Therefore restructure Data, Dao, and Repo."
+git push
+clear
+git add-commit -m "Refactor adapters. Insert GearItem and Species works"
+git push
+git add-commit -m "trimmed initRecyclerView() and Adapter related methods from SettingGearFragment. All shifted to its viewModel class. Looks cleaner"
+git push
+git add-commit -m "tide up dialog class, remove pre-populate data from database class"
+git push
+git add-commit -m "add spinnerDialog under Dialog.kt class"
+git push
+git add-commit -m "commit on Nov, before adding 'one-click connect' feature"
+git push
+git add-commit -m "one-click connect, layout added"
+git push
+git add-commit -m "one-click worksgit pushgit pushgit push"
+git push
+sudo apt install kdeconnect
+git add-commit -m "refactor GprSwitchFragment, GprMsgFragment and GprModePresenter"
+git push
+git add-commit -m "add mvvm package folder into project"
+git push
+git remote add origin https://github.com/SnapITHD/VMSFirmwareKit.git
+git checkout master 
+git merge GPR_mode 
+git add-commit -m "merge commit"
+git push
+git remote set-url origin git@github.com:SnapITHD/VMSFirmwareKit.git
+git push
+git pull --rebase
+git push
+git add-commit -m "migrate to Androidx, refector TerminalFragment to TerminalViewModel, abandon butterknife. As annotation stop working after add viewmodel"
+git push
+git add-commit -m "cleanup all butterknife code"
+git push
+git add-commit -m "remove reset from TerminalFragment"
+git push
+git add-commit -m "cleanup terminalfragment"
+git push
+git add-commit -m "add ProcessTVHelper to manage updateProgressTv"
+git push
+git add-commit -m "ProcessTvHelper working"
+git push
+gource
+sudo apt install gource
+gource
+adb kill-server&&adb start-server
+git add-commit -m "download firmware smartly and update VMS v4 or v6"
+git push
+git branch status
+git branch SmartUpdate
+git brach
+git branch 
+git branch -d status
+git checkout SmartUpdate 
+git commit -m "first commit"
+git add-commit -m "firmware upgrade V4 and V7 respectively."
+git add-commit -m "released"
+git push
+git checkout master 
+git merge SmartUpdate 
+git add-commit -m "merge to SmartUpdate"
+git push

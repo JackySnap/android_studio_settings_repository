@@ -1,0 +1,14 @@
+<templateSet group="user">
+  <template name="setView" value="fun setView(v: View){&#10;        this.v = v&#10;    }" description="setView in ViewModel" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="&lt;abbreviation&gt;" value="android:layout_marginTop=&quot;0dp&quot;&#10;                android:layout_marginEnd=&quot;0dp&quot;&#10;                android:layout_marginStart=&quot;0dp&quot;&#10;                android:layout_marginBottom=&quot;30dp&quot;&#10;                app:layout_constraintBottom_toTopOf=&quot;@id/landSalesRecyclerView&quot;&#10;                app:layout_constraintEnd_toStartOf=&quot;@id/guidelineRight&quot;&#10;                app:layout_constraintStart_toEndOf=&quot;@id/guidelineLeft&quot;&#10;                app:layout_constraintTop_toBottomOf=&quot;@id/guidelineTop&quot;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="false" />
+      <option name="XSL_TEXT" value="false" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,37 @@
+<templateSet group="Android">
+  <template name="Toast" value="android.widget.Toast.makeText(context, &quot;$text$&quot;, Toast.LENGTH_SHORT).show();" description="Create a new Toast" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="navto_fm" value=" fun navigateTo$nxtFragment$(fragmentManager: FragmentManager,argValue: String) {&#10;        val fragment = $nxtFragment$()&#10;        val arg = Bundle()&#10;        arg.putString(&quot;TAB_NAME&quot;, argValue)&#10;        fragment.arguments = arg&#10;        fragmentManager!!.beginTransaction()&#10;            .replace(R.id.fragment, fragment, &quot;$fragmentKey$&quot;)&#10;            .addToBackStack(null)&#10;            .commit()&#10;    }" description="fragment transaction from current fragment to nxt fragment" toReformat="false" toShortenFQNames="true">
+    <variable name="nxtFragment" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="fragmentKey" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="dataFactory" value="companion object{&#10;        fun create$DataClass$(): $DataClass${&#10;            val df = DataFactory()&#10;            val dfNum = df.getNumberBetween(1,100)&#10;            return $DataClass$(p0, p1, p2, p3)&#10;        }&#10;    }" description="Method that randomly generate  an object of this data class" toReformat="false" toShortenFQNames="true">
+    <variable name="DataClass" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="impRecyc" value="val reView = view.$recyclerViewID$&#10;        reView.setHasFixedSize(true)&#10;        val layoutManager = LinearLayoutManager($context$)&#10;        val adapter = HaulAdapter($arrayList$, this)&#10;        reView.layoutManager = layoutManager&#10;        reView.adapter = adapter" description="Implement recycler view, load adpater" toReformat="false" toShortenFQNames="true">
+    <variable name="recyclerViewID" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="context" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="arrayList" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="navto" value="fun navTo$nxtFragment$() {&#10;        val args = Bundle()&#10;        args.putString(&quot;device&quot;, $value$)&#10;        Navigation.findNavController(view!!).navigate($navId$, args)&#10;    }" description="Navigate from current fragment to nxt fragment" toReformat="false" toShortenFQNames="true">
+    <variable name="nxtFragment" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="navId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

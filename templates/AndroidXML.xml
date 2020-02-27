@@ -1,0 +1,30 @@
+<templateSet group="AndroidXML">
+  <template name="l" value="&lt;layout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;        xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;&#10;        xmlns:tools=&quot;http://schemas.android.com/tools&quot;&gt;&#10;&#10;    &lt;data&gt;&#10;&#10;        &lt;variable&#10;                name=&quot;vm&quot;&#10;                type=&quot;$domain0$.$domain1$.$domain2$.$domain3$.$domain4$&quot;/&gt;&#10;&#10;    &lt;/data&gt;" description="layout for databinding" toReformat="false" toShortenFQNames="true">
+    <variable name="domain0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="domain1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="domain2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="domain3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="domain4" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="guide" value="&#10;        &lt;androidx.constraintlayout.widget.Guideline&#10;                android:id=&quot;@+id/guidelineTop&quot;&#10;                android:orientation=&quot;horizontal&quot;&#10;                android:layout_width=&quot;wrap_content&quot;&#10;                android:layout_height=&quot;wrap_content&quot;&#10;                app:layout_constraintGuide_percent=&quot;0.38&quot;/&gt;&#10;&#10;&#10;        &lt;androidx.constraintlayout.widget.Guideline&#10;                android:id=&quot;@+id/guidelineLeft&quot;&#10;                android:orientation=&quot;vertical&quot;&#10;                android:layout_width=&quot;wrap_content&quot;&#10;                android:layout_height=&quot;wrap_content&quot;&#10;                app:layout_constraintGuide_percent=&quot;0.2&quot;/&gt;&#10;&#10;        &lt;androidx.constraintlayout.widget.Guideline&#10;                android:id=&quot;@+id/guidelineRight&quot;&#10;                android:orientation=&quot;vertical&quot;&#10;                android:layout_width=&quot;wrap_content&quot;&#10;                android:layout_height=&quot;wrap_content&quot;&#10;                app:layout_constraintGuide_percent=&quot;0.8&quot;/&gt;&#10;&#10;        &lt;androidx.constraintlayout.widget.Guideline&#10;                android:id=&quot;@+id/guidelineBottom&quot;&#10;                android:orientation=&quot;horizontal&quot;&#10;                android:layout_width=&quot;wrap_content&quot;&#10;                android:layout_height=&quot;wrap_content&quot;&#10;                app:layout_constraintGuide_percent=&quot;0.91&quot;/&gt;" description="(androidx.constrainlayout.guideline)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="constrain" value="android:layout_marginTop=&quot;$mT$&quot;&#10;android:layout_marginEnd=&quot;$mE$&quot;&#10;android:layout_marginStart=&quot;$mS$&quot;&#10;android:layout_marginBottom=&quot;$mB$&quot;&#10;app:layout_constraintBottom_toTopOf=&quot;$cBT$&quot;&#10;app:layout_constraintEnd_toStartOf=&quot;$cES$&quot;&#10;app:layout_constraintStart_toEndOf=&quot;$cSE$&quot;&#10;app:layout_constraintTop_toBottomOf=&quot;$cTB$&quot;" description="adds constrains and  margin" toReformat="false" toShortenFQNames="true">
+    <variable name="mT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="mE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="mS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="mB" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cBT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cES" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cSE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cTB" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
