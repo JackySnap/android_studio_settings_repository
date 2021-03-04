@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/src/main/java/nz/snapitgroup/snapelog2/viewModel/LoginViewModel.kt [SnapElog2.app]'" />
-    <option name="defaultScopeName" value="File '.../app/src/main/java/nz/snapitgroup/snapelog2/viewModel/LoginViewModel.kt [SnapElog2.app]'" />
+    <option name="customScope" value="Project 'SnapElog2'" />
+    <option name="defaultScopeName" value="Project 'SnapElog2'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/nz/snapitgroup/snapelog2/viewModel/LoginViewModel.kt [SnapElog2.app]'" />
+    <option name="SEARCH_SCOPE" value="Project 'SnapElog2'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
